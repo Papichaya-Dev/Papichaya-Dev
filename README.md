@@ -1,16 +1,20 @@
-### Hi there 👋
+### 🦋 Wassups!! , I'm Papichaya or Lookpad 🦋
 
-<!--
-**Papichaya-Dev/Papichaya-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌷  I'm just a girl who likes to coding.
+- 🌙  20 years old dev 
+- ⏳  Passionate for music and chess
+- 🎸  spending time with playing guitar
 
-Here are some ideas to get you started:
+### 💎&nbsp; Stack tools 
+| 💐 |  🌸 | 🐉 | 🐦 | 🌊 | 🌞 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| <b>𝐑𝐞𝐚𝐜𝐭</b> | <b>𝐑𝐞𝐚𝐜𝐭 𝐧𝐚𝐭𝐢𝐯𝐞</b> | <b>𝐄𝐱𝐩𝐫𝐞𝐬𝐬</b> | <b>𝐍𝐨𝐝𝐞.𝐣𝐬</b> | <b>𝐕𝐮𝐞 (learning)</b>  | <b>𝐏𝐲𝐭𝐡𝐨𝐧</b> | 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌹&nbsp; Interested in
+- 💻 web application development
+- 🔗 front end developer 
+- 🌻 Full stack developer ( attempt )
+- 🎨 Creative design
+
+## 📈 Stats
+ ![GITHUB_STAT_OVERALL](https://github-readme-stats.vercel.app/api?username=papichaya-dev&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true&hide_title=false&line_height=21)
