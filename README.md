@@ -14,7 +14,7 @@
 - 💻 web application development
 - 🔗 front end developer 
 - 🌻 Full stack developer ( attempt )
-- 🎨 Creative design
+- 🎨 Graphic design
 
 ## 📈 Stats
  ![GITHUB_STAT_OVERALL](https://github-readme-stats.vercel.app/api?username=papichaya-dev&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true&hide_title=false&line_height=21)
