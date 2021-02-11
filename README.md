@@ -6,14 +6,14 @@
 - 🎸  spending time with playing guitar
 
 ### 💎&nbsp; Stack tools 
-| 💐 |  🌸 | 🐉 | 🐦 | 🌊 | 🌞 |
+| 💐 |  🌸 | 🐉 | 🐦 | 🌊 | 🌞 | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| <b>𝐑𝐞𝐚𝐜𝐭</b> | <b>𝐑𝐞𝐚𝐜𝐭 𝐧𝐚𝐭𝐢𝐯𝐞</b> | <b>𝐄𝐱𝐩𝐫𝐞𝐬𝐬</b> | <b>𝐍𝐨𝐝𝐞.𝐣𝐬</b> | <b>𝐕𝐮𝐞 (learning)</b>  | <b>𝐏𝐲𝐭𝐡𝐨𝐧</b> | 
+| <b>𝐑𝐞𝐚𝐜𝐭</b> | <b>𝐑𝐞𝐚𝐜𝐭 𝐧𝐚𝐭𝐢𝐯𝐞</b> | <b>𝐄𝐱𝐩𝐫𝐞𝐬𝐬</b> | <b>𝐍𝐨𝐝𝐞.𝐣𝐬</b> | <b>𝐕𝐮𝐞</b>  | <b>𝐏𝐲𝐭𝐡𝐨𝐧</b> | 
 
 ### 🌹&nbsp; Interested in
-- 💻 web application development
-- 🔗 front end developer 
-- 🌻 Full stack developer ( attempt )
+- 💻 Web Application Development
+- 🔗 Frontend Developer 
+- 🌻 Full Stack Developer ( attempt )
 - 🎨 Graphic design
 
 ## 📈 Stats
