@@ -1,7 +1,7 @@
 ### 🦋 Wassups!! , I'm Papichaya or Lookpad 🦋
 
 - 🌷  I'm just a girl who likes to coding.
-- 🌙  20 years old dev 
+- 🌙  21 years old dev 
 - ⏳  Passionate for music and chess
 - 🎸  spending time with playing guitar
 
@@ -13,7 +13,7 @@
 ### 🌹&nbsp; Interested in
 - 💻 Web Application Development
 - 🔗 Frontend Developer 
-- 🌻 Full Stack Developer ( attempt )
+- 🌻 Full Stack Developer
 - 🎨 Graphic design
 
 ## 📈 Stats
