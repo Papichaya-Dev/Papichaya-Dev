@@ -1,25 +1,24 @@
 ### 🦋 Wassups!! , I'm Papichaya or Lookpad 🦋
 
 - 🌷  I'm just a girl who likes to coding.
-- 🌙  21 years old dev 
-- ⏳  Passionate for music and chess
-- 🎸  spending time with playing guitar
+- 🌙  22 years old dev 
+- 🌱  Passionate for nature/book and music
 
 ### 💎 Languages •*⁀➷
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" alt="javascript" height="42px"/>
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521774-2945272.png" alt="typescript" height="42px"/>
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/python-3628999-3030224.png" alt="python" height="42px"/>
-<img align="left" src="https://www.linkpicture.com/q/dart_1.png" alt="dart" height="42px"/>
+<img align="left" src="https://static.cdnlogo.com/logos/d/66/dart.svg" alt="dart" height="42px"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/c-4-226082.png" alt="c++" height="42px"/>
 
 
 ### 🌹&nbsp; Frameworks & Libraries •*⁀➷
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png" alt="react" height="42px"/>
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/vuejs-3-1175070.png" alt="vue" height="42px"/>
-<img align="left" src="https://www.linkpicture.com/q/flutter.png" alt="flutter" height="42px"/>
-<img align="left" src="https://www.linkpicture.com/q/node_express.png" alt="node-express" height="42px"/>
-<img align="left" src="https://www.linkpicture.com/q/ant-design.png" alt="ant-design" height="42px"/>
-<img src="https://www.linkpicture.com/q/styled-components-logo.png" alt="styled-component" height="42px"/>
+<img align="left" src="https://www.fluttericon.com/logo_dart_192px.svg" alt="flutter" height="42px"/>
+<img align="left" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="node-express" height="42px"/>
+<img align="left" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="ant-design" height="42px"/>
+<img src="https://cdn-media-1.freecodecamp.org/images/-bmCEVFtIS2uUfrccPhudu7cIVRtoBywTexv" height="42px"/>
 
 
 ### :floppy_disk: Databases :
