@@ -1,4 +1,4 @@
-### 🦋 Wassups!! , I'm Papichaya or Lookpad 🦋
+### 🦋 I'm Papichaya or Lookpad 🦋
 
 - 🌷  I'm just a girl who likes to coding.
 - 🌙  22 years old dev 
